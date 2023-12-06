@@ -46,7 +46,7 @@ Java and Python
 
 ![IMG_20231206_120740](https://github.com/gurpreetsingh1111/CodeBugFixer_AI_Application/assets/84591513/b281a8fc-4cd4-43c8-ac47-af8c3692e9be)
 
-## Deploying the ChatGPT App to the Azure Cloud
+## Deploying AI App/Applications to the Azure Cloud
  upload our Code Bug Fixer application to the Azure cloud platform. Azure is a cloud computing 
 service provided by Microsoft that allows developers to host, manage, and scale their applications in 
 the cloud. By hosting our application on Azure, we can make our application accessible to a wider 
